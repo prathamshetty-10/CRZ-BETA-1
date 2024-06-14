@@ -47,4 +47,5 @@ The Coastal Regulation Zone (CRZ) Web App is a digital solution developed and op
 - The CRZ Web App project is currently in progress due to ongoing modifications requested by district officials. These changes aim to further improve the application's functionality and compliance with new regulatory requirements. 
 - Additionally, there has been a significant shift in the project's technical infrastructure, necessitated by the officials' decision to transition the database from MySQL to SQL Server. 
 - This change is crucial for enhancing data management capabilities and ensuring better integration with existing government systems, leading to some delays as we adapt and optimize the application accordingly.
+- Please Refer to this link to find the New Version https://github.com/prathamshetty-10/CRZ-NEWV
 
