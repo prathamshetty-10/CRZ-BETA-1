@@ -34,6 +34,13 @@ The Coastal Regulation Zone (CRZ) Web App is a digital solution developed and op
 - The user will receive a mail automatically based on the admins decision and also updates will be shown in the users app.
 
 
+## The Team 😎😎
+- Mr Raghavendra Holla B - Project guide and mentor
+- Mrs Cynthia Menezes - Project guide and mentor
+- Mr Roshan - Project guide and mentor
+- Pratham Shetty (me) : Backend developer
+- Aarya R : Frontend developer
+- Aditya : Frontend developer
 
 
 ## 🔗 Website Link
